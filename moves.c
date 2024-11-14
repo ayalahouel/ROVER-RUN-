@@ -51,6 +51,7 @@ t_localisation translate(t_localisation loc, t_move move)
      *  - x grows to the right with step of +1
      *  - y grows to the bottom with step of +1
      *  - the origin (x=0, y=0) is at the top left corner
+    t_position_res=loc.pos,
      */
     t_position res;
     switch (move) {
