@@ -68,5 +68,5 @@ void chooseMoves(t_move selected_moves[SEL_MOV]);
  * @param size : Size of the array
  */
 void printProbabilities(t_move_probability *probabilities, int size);
-
+ 
 #endif // PROB_MOV_H
