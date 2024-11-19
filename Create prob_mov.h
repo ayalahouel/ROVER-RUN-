@@ -1,4 +1,4 @@
-// eya: Movement part based on probabilities
+//eya: Movement part based on probabilities
 #ifndef PROB_MOV_H
 #define PROB_MOV_H
 
