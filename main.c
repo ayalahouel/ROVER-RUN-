@@ -1,5 +1,14 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include "loc.h"
+#include "moves.h"
+#include "prob_mov.h"
+#include "stack.h"
+#include "queue.h"
 #include "map.h"
+#include "n_ary_tree.h"
+#include "map.h"
+
 
 int main() {
     t_map map = createMapFromFile("..\\maps\\example1.map");
